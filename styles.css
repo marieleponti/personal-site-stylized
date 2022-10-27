@@ -1,17 +1,24 @@
 body {
     margin: 0;
-}
-
-.name {
-    margin-top: 0;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.profession {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 .intro-section {
     background-color: #A5F1E9;
-    padding: 150px;
+    /* padding-bottom: 200px; */
+    
 }
+
+.user-info {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+                'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 200px;
+}
+
+.image-top {
+    position: relative;
+    top: 200px;
+    margin-bottom: 200px;
+}
+
