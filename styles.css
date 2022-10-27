@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.name {
+    margin-top: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profession {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.intro-section {
+    background-color: #A5F1E9;
+    padding: 150px;
+}
